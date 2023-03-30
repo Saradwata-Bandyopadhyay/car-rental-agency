@@ -1,5 +1,6 @@
 <h1>Car-Rental-Agency</h1>
-This is a prototype of a Car Rental Agency's website. It is built using Bootstrap, PHP and MySQL live link https://cra.hashtagkolkata.com/.
+This is a prototype of a Car Rental Agency's website. It is built using Bootstrap, PHP and MySQL.
+To login as Customer visit URL https://cra.hashtagkolkata.com/login.php. To Login as Agency visit URL https://cra.hashtagkolkata.com/agency/login.php. To see the available list of Cars vist URL https://cra.hashtagkolkata.com/available.php. All the mentioned URLs are accessable from the Header of the website.
 <h2>How to use this on your Local Machine ?</h2>
 Step 1: Download or clone the repostory.<br>
 Step 2: Download and install XAMPP.<br>
